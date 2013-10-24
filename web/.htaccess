@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteRule ^([a-z][a-z])/(.*)$ index.php?lang=$1&request=$2 [QSA]
+
+#ExpiresActive On
+#ExpiresDefault "access plus 1 year"
+
+SetOutputFilter DEFLATE
+
