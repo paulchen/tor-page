@@ -2,7 +2,20 @@
 <h1>tor.rueckgr.at</h1>
 <div class="introduction">
 	<p>
+		This server runs a <a href="https://www.torproject.org/">Tor</a> non-exit relay and a few related services:
 	</p>
+	<ul>
+		<li><a href="//torstatus.rueckgr.at">TorStatus</a></li>
+		<li><a href="//torstatus.rueckgr.at/onionoo/">Onionoo</a></li>
+		<li><a href="//torstatus.rueckgr.at/atlas/index.html">Atlas</a></li>
+		<li><a href="//torstatus.rueckgr.at/compass">Compass</a></li>
+		<li><a href="//torstatus.rueckgr.at/stats/">Geographical distribution of users using this relay</a></li>
+	</ul>
+
+	<p>
+		On this server, there are several pages which are not related to Tor as well; see <a href="https://rueckgr.at">rueckgr.at</a> for details.
+	</p>
+
 	<hr />
 
 	<p>
