@@ -7,7 +7,7 @@ if(!preg_match('/^[a-z]+/', $lang)) {
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 	<meta name="viewport" content="initial-scale=.4, user-scalable=yes" />
-	<title>Paul Staroch</title>
+	<title>tor.rueckgr.at</title>
 	<link rel="stylesheet" type="text/css" href="../css/main.css" />
 </head>
 <body class="centered_page">
