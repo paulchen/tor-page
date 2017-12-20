@@ -6,7 +6,7 @@
 	</p>
 	<ul>
 		<li><a href="//torstatus.rueckgr.at">TorStatus</a></li>
-		<li><a href="//torstatus.rueckgr.at/onionoo/">Onionoo</a></li>
+		<!-- <li><a href="//torstatus.rueckgr.at/onionoo/">Onionoo</a></li> -->
 		<li><a href="//torstatus.rueckgr.at/atlas/index.html">Atlas</a></li>
 		<li><a href="//torstatus.rueckgr.at/compass">Compass</a></li>
 		<li><a href="//torstatus.rueckgr.at/stats/">Geographical distribution of users using this relay</a></li>
